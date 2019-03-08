@@ -2,11 +2,17 @@
 *Renamed to 'Wallpaper Changer for Reddit' due to policy*
 
 **If you use Google Services, please install from the [Play Store listing](https://play.google.com/store/apps/details?id=com.bryanwalsh.redditwallpaper2).** 
+
 The .apk in the [Releases tab](https://github.com/bwalsh0/RedditWallpaperChanger/releases) is for non-Google Services ROMs only.
 
-![](https://i.imgur.com/Fl6RuXL.png)
+Also available on [XDA Labs/DevDB](https://labs.xda-developers.com/store/app/com.bryanwalsh.redditwallpaper2).
 
-**New in 3.7.0:**
+<p align="center">
+<img src="https://i.imgur.com/Fl6RuXL.png" alt="Wallpaper Changer for Reddit App Logo" width="256" height="256">
+</p>
+
+**New in 3.7.0:** *[March 8, 2019]*
+
 • Added option to filter images by upvotes
 
 • Added quick-settings shortcut to change wallpaper (Nougat 7.0+)
