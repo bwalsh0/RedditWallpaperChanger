@@ -1,4 +1,6 @@
 # RedditWallpaperChanger
+![](https://img.shields.io/badge/version-3.7.0-blue.svg) ![](https://img.shields.io/badge/rating-4.4%2F5%20(56)-brightgreen.svg)
+
 *Renamed to 'Wallpaper Changer for Reddit' due to policy*
 
 **If you use Google Services, please install from the [Play Store listing](https://play.google.com/store/apps/details?id=com.bryanwalsh.redditwallpaper2).** 
