@@ -1,5 +1,5 @@
 # RedditWallpaperChanger
-![](https://img.shields.io/badge/version-3.7.0-blue.svg) ![](https://img.shields.io/badge/rating-4.4%2F5%20(56)-brightgreen.svg)
+![](https://img.shields.io/badge/version-3.7.1-blue.svg) ![](https://img.shields.io/badge/rating-4.5%2F5%20(68)-brightgreen.svg)
 
 *Renamed to 'Wallpaper Changer for Reddit' due to policy*
 
@@ -13,17 +13,13 @@ Also available on [XDA Labs/DevDB](https://labs.xda-developers.com/store/app/com
 <img src="https://i.imgur.com/Fl6RuXL.png" alt="Wallpaper Changer for Reddit App Logo" width="256" height="256">
 </p>
 
-**New in 3.7.0:** *[March 8, 2019]*
+**New in 3.7.1:** *[March 13, 2019]*
 
-• Added option to filter images by upvotes
+• French Translation added, thanks to Solid.Snake @ XDA
 
-• Added quick-settings shortcut to change wallpaper (Nougat 7.0+)
+• Image history limit increased to 50
 
-• Added option to grayscale images
-
-• Fixed auto-update not changing back to "Manual"
-
-• Regrouped some settings & cleaned up UI
+• Minor bug fixes
 
 ----
 *More screenshots available on the Google Play Store*
