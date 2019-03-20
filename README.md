@@ -24,4 +24,4 @@ Also available on [XDA Labs/DevDB](https://labs.xda-developers.com/store/app/com
 ----
 *More screenshots available on the Google Play Store*
 
-![](https://lh3.googleusercontent.com/AIfwgarSwlYB3ICFdswANuVyDkzHzssHrfu-Izj_Lh8jHm42HylFXwqFHfbglz2CAA=w2048-h1010-rw)
+![](https://lh3.googleusercontent.com/RUNtknFsjrky-QmEZD0FG_2q04YfpyMXPXkRuiP-hV55GbbI2-svlfZDqsYa-zA4Hw=w2048-h1010-rw)
