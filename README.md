@@ -1,41 +1,40 @@
 # RedditWallpaperChanger
-![](https://img.shields.io/badge/version-3.8.3g-blue.svg) ![](https://img.shields.io/badge/rating-4.3%2F5%20(136)-brightgreen.svg)
+![](https://img.shields.io/badge/version-3.10.1-blue.svg) ![](https://img.shields.io/badge/rating-4.1%2F5%20(196)-brightgreen.svg)
 
-*Renamed to 'Wallpaper Changer for Reddit' due to policy*
+*Renamed to 'Wallpaper Changer for Reddit' due to Google policy*
 
-**If you use Google Services, please install from the [Play Store listing](https://play.google.com/store/apps/details?id=com.bryanwalsh.redditwallpaper2).** 
+**Downloads:**
 
-The .apk in the [Releases tab](https://github.com/bwalsh0/RedditWallpaperChanger/releases) is for non-Google Services ROMs only.
+[Google Play Store](https://play.google.com/store/apps/details?id=com.bryanwalsh.redditwallpaper2) 
 
-Also available on [XDA Labs/DevDB](https://labs.xda-developers.com/store/app/com.bryanwalsh.redditwallpaper2).
+[XDA Labs](https://labs.xda-developers.com/store/app/com.bryanwalsh.redditwallpaper2) *(alternative listing)*
+
+[GitHub Releases](https://github.com/bwalsh0/RedditWallpaperChanger/releases) *(.apk file for non-Google Services ROMs)*
 
 <p align="center">
 <img src="https://i.imgur.com/Fl6RuXL.png" alt="Wallpaper Changer for Reddit App Logo" width="256" height="256">
 </p>
 
-**New in 3.8.0+:** *[May 15, 2019]*
+**New in 3.10.x:** *[Dec. 29, 2019]*
 
-• Download images to device from the History page!
+• Rebuilt auto-update system - Now updates wallpapers more reliably
 
-• Notification thumbnails, and improved notification options!
+• Option to skip recent wallpapers to prevent duplicates
 
-• Better subreddit/screen selection interface
+• Android Q (10.0) compatibility
 
-• Option to apply blur/dim effects only on specific screens
+• Improved sticky notification
 
-• Improved network stability! Wallpaper updates should work better on mobile networks and slower connections.
+• Fixed Quick Settings tile, and many other bugs
 
-• Subreddit input screen is now scrollable, when text fields push content off-screen
+• More UI tweaks to prepare for future redesign
 
-• Added translations for Portuguese, Italian, and Arabic (Thanks to those who contributed!)
-
-• Important bug fixes & optimizations
 
 
 
 Full changelog at: [bit.ly/rwc-log](bit.ly/rwc-log), or from the 'About' page within the app
 
 ----
-*More screenshots available on the Google Play Store*
+*More screenshots available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.bryanwalsh.redditwallpaper2)*
 
-![](https://lh3.googleusercontent.com/RUNtknFsjrky-QmEZD0FG_2q04YfpyMXPXkRuiP-hV55GbbI2-svlfZDqsYa-zA4Hw=w2048-h1010-rw)
+![](https://lh3.googleusercontent.com/wyzLrHu4moju4Cs331QSpBw9C1gJ6KTj3Fa6xnMU4nQj6DZG4Qqyw5k8M5e8pMxgXrk=w2048-h1010-rw)
