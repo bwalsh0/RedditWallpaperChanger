@@ -37,4 +37,4 @@ Full changelog at: [bit.ly/rwc-log](bit.ly/rwc-log), or from the 'About' page wi
 ----
 *More screenshots available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.bryanwalsh.redditwallpaper2)*
 
-![](https://lh3.googleusercontent.com/wyzLrHu4moju4Cs331QSpBw9C1gJ6KTj3Fa6xnMU4nQj6DZG4Qqyw5k8M5e8pMxgXrk=w2048-h1010-rw)
+<p align="center"><img src="https://lh3.googleusercontent.com/wyzLrHu4moju4Cs331QSpBw9C1gJ6KTj3Fa6xnMU4nQj6DZG4Qqyw5k8M5e8pMxgXrk=w2048-h1010-rw" alt="Screenshot of main app page"</p>
